@@ -15,7 +15,7 @@ ipdb==0.13.13  # 2023 Mar https://pypi.org/project/ipdb/0.13.13/
 
 # Pytest
 # ------------------
-pytest==7.4.2 # 2023 Sep https://github.com/pytest-dev/pytest/7.4.2
+pytest==7.4.3 # 2023 Sep https://github.com/pytest-dev/pytest/7.4.2
 pytest-django==4.5.2  # 2021 Dec https://pypi.org/project/pytest-django/4.5.2
 pytest-restrict==4.6.0  # 2023 Jul https://pypi.org/project/pytest-restrict/4.6.0
 
