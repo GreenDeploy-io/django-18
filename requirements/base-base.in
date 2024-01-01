@@ -51,7 +51,7 @@ redis==5.0.1  # 2023 Aug https://pypi.org/project/redis/5.0.1/
 
 # Benedict
 # ----------------------------------------------------------------
-python-benedict==0.32.1  # 2023 Sept https://pypi.org/project/python-benedict/0.32.1/
+python-benedict==0.33.1  # 2023 Sept https://pypi.org/project/python-benedict/0.32.1/
 
 # Validation
 # ------------------------------------------------------------------------------
